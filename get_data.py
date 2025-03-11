@@ -9,3 +9,4 @@ def get_data(filename:str) -> dict:
     Returns:
         dict: JSON data
     """
+    
